@@ -662,14 +662,14 @@ UrlConfig
 		rescaleFactor = 1.25
 		attachRules = 1,0,1,1,0
 		TechRequired = specializedControl
-		entryCost = 2500
-		cost = 1500
+		entryCost = 50000
+		cost = 25000
 		category = Utility
 		subcategory = 0
 		title = FTL Beacon Plus
 		manufacturer = Kerbal Science Foundry
 		description = FTL Beacon that when turned on provides a destination to jump to for an FTL drive.
-		mass = 0.25
+		mass = 1
 		dragModelType = default
 		maximum_drag = 0.2
 		minimum_drag = 0.2
@@ -750,14 +750,14 @@ UrlConfig
 		rescaleFactor = 1
 		attachRules = 1,0,1,1,0
 		TechRequired = specializedControl
-		entryCost = 250000
-		cost = 36050
+		entryCost = 125000
+		cost = 225000
 		category = Utility
 		subcategory = 0
 		title = 720iN Advanced FTL Drive
 		manufacturer = Kerbal Science Foundry
 		description = Spin up this drive to create an instant reality dysfunction that will either transport you to an active FTL beacon, or make your ship go puff aka. explode if you are in too high a gravity field. Use this device at your own risk! KSF shall not be responsible for any material loss or death that may occur from the use of this device.
-		mass = 0.9
+		mass = 2.5
 		dragModelType = default
 		maximum_drag = 0.2
 		minimum_drag = 0.2
@@ -783,7 +783,7 @@ UrlConfig
 		MODULE
 		{
 			name = FTLDriveModule
-			generatedForce = 720
+			generatedForce = 2100
 			chargeRate = 62.5
 			chargeTime = 8
 			animationNames = cycleSpin
@@ -833,14 +833,14 @@ UrlConfig
 		rescaleFactor = 0.5
 		attachRules = 1,0,1,1,0
 		TechRequired = specializedControl
-		entryCost = 250000
-		cost = 31250
+		entryCost = 125000
+		cost = 300000
 		category = Utility
 		subcategory = 0
 		title = 650iN Advanced FTL Drive
 		manufacturer = Kerbal Science Foundry
 		description = Spin up this drive to create an instant reality dysfunction that will either transport you to an active FTL beacon, or make your ship go puff aka. explode if you are in too high a gravity field. Use this device at your own risk! KSF shall not be responsible for any material loss or death that may occur from the use of this device.
-		mass = 0.625
+		mass = 1.25
 		dragModelType = default
 		maximum_drag = 0.2
 		minimum_drag = 0.2
@@ -866,7 +866,7 @@ UrlConfig
 		MODULE
 		{
 			name = FTLDriveModule
-			generatedForce = 625
+			generatedForce = 1800
 			chargeRate = 58.5
 			chargeTime = 8
 			animationNames = spin
@@ -916,14 +916,14 @@ UrlConfig
 		rescaleFactor = 0.5
 		attachRules = 1,0,1,1,0
 		TechRequired = specializedControl
-		entryCost = 250000
-		cost = 125000
+		entryCost = 125000
+		cost = 150000
 		category = Utility
 		subcategory = 0
 		title = 2500iN Advanced FTL Drive
 		manufacturer = Kerbal Science Foundry
 		description = Spin up this drive to create an instant reality dysfunction that will either transport you to an active FTL beacon, or make your ship go puff aka. explode if you are in too high a gravity field. Use this device at your own risk! KSF shall not be responsible for any material loss or death that may occur from the use of this device.
-		mass = 2.5
+		mass = 6
 		dragModelType = default
 		maximum_drag = 0.2
 		minimum_drag = 0.2
@@ -20048,11 +20048,11 @@ UrlConfig
 			}
 			Orbit
 			{
-				referenceBody = Ciro
+				referenceBody = Sun
 				color = 0.5,0.75,0.75,1
 				inclination = 0
 				eccentricity = 0
-				semiMajorAxis = 6991383353.2061
+				semiMajorAxis = 8120511438.5
 				longitudeOfAscendingNode = 90
 				argumentOfPeriapsis = 300
 				meanAnomalyAtEpoch = 0
@@ -22119,7 +22119,7 @@ UrlConfig
 				description = As long as Gaelkind has known the light they have known about a red glimmer that hung in the sky and to this day dances with Ciro and Gael. They have always found it irresistible to point lenses at and use in stories. One great question has been asked through time, though. Is Grannus the sole holder of a barren system, or like everything else around Ciro, is it also a bearer of great surprises?
 				displayName = Grannus^N
 				radius = 15085000
-				geeASL = 71.4
+				geeASL = 9.61
 				rotates = True
 				rotationPeriod = 1296000
 				tidallyLocked = False
@@ -23536,10 +23536,10 @@ UrlConfig
 			}
 			Properties
 			{
-				description = The name of this moon sounds like it should have a lot to do with smithing and construction. Evidently it sure seems to be the workplace of higher beings, looking like it itself burst open and bled under unfathomable workloads. Given the looks of the other planets they did quite a job.
+				description = "It's a big rock..."
 				displayName = Hephaestus^N
 				radius = 62500
-				geeASL = 0.08
+				geeASL = 2.38
 				tidallyLocked = True
 				initialRotation = 0
 				albedo = 0.3
@@ -24027,11 +24027,11 @@ UrlConfig
 			}
 			Orbit
 			{
-				referenceBody = Ciro
+				referenceBody = Gauss
 				color = 0.5,0.75,0.75,1
 				inclination = 5
 				eccentricity = 0.15
-				semiMajorAxis = 209765500000
+				semiMajorAxis = 49000000
 				longitudeOfAscendingNode = 120
 				argumentOfPeriapsis = 90
 				meanAnomalyAtEpoch = 4.7
@@ -25794,11 +25794,11 @@ UrlConfig
 			}
 			Properties
 			{
-				description = A Nereid and very different flavor of planetoid. This maiden clearly wandered by and paid more than one visit to Nero's kourt in her lifetime. She found herself invited to hang around, but not worthy to hang very closely.
+				description = "A dense Kerbal crushing ball of metallic compounds. Not for the average explorer."
 				displayName = Julia^N
 				radius = 15000
-				geeASL = 0.015
-				rotationPeriod = 36000
+				geeASL = 3.74
+				rotationPeriod = 12412
 				tidallyLocked = False
 				initialRotation = 0
 				albedo = 0.4
@@ -26693,7 +26693,7 @@ UrlConfig
 				description = Well what do we have here? A proverbial lump in the dough when Tellumo formed, or a wandering snowball that has now found its way?
 				displayName = Lili^N
 				radius = 3500
-				geeASL = 0.006
+				geeASL = 0.04
 				tidallyLocked = True
 				initialRotation = 320
 				albedo = 0.5
@@ -32264,7 +32264,7 @@ UrlConfig
 				description = Among the countless yellow main sequence stars Ciro itself appears at first to be nothing special, but it's the center of a very inviting and very rich system. What bountiful surprises await within its SOI? This is why we have space programs.
 				displayName = Ciro^N
 				radius = 35490000
-				geeASL = 25.8
+				geeASL = 7.27
 				rotates = True
 				rotationPeriod = 540000
 				tidallyLocked = False

@@ -1,4 +1,84 @@
 Executing: KerbalEngineer - 1.1.5.2
 Assembly: C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 11:53:17.8666648]: images (UnityEngine.AssetBundle)
+[Log 12:33:08.5938675]: images (UnityEngine.AssetBundle)
+[Log 12:46:16.3048464]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleManager, Version=3.0.7.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: ClickThroughBlocker, Version=0.1.6.5, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: ToolbarControl, Version=0.1.6.10, Culture=neutral, PublicKeyToken=null
+Assembly: Atmosphere, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: CelestialShadows, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: CityLights, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: EVEManager, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: PartFX, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: PQSManager, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: ShaderLoader, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: Terrain, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: TextureConfig, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: Utils, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: _BuildManager, Version=1.4.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: FTLDriveContinued, Version=0.2.1.3, Culture=neutral, PublicKeyToken=null
+Assembly: GPPTextureChecker, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalRenamer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: SuitProg, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Sigma88LoadingScreens, Version=0.4.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: JanitorsCloset, Version=0.3.4.1, Culture=neutral, PublicKeyToken=null
+Assembly: KAS, Version=0.6.4.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.1, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer, Version=1.1.5.2, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalKonstructs, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KIS, Version=1.12.6700.37736, Culture=neutral, PublicKeyToken=null
+Assembly: KSPDev_Utils.0.33, Version=0.33.6700.37148, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModularFlightIntegrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Kopernicus.Components, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Kopernicus.OnDemand, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Kopernicus.Parser, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Kopernicus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KS3P.Shaders, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KS3P, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: 0Harmony, Version=1.0.9.1, Culture=neutral, PublicKeyToken=null
+Assembly: JsonFx, Version=2.0.1209.2802, Culture=neutral, PublicKeyToken=315052dd637f8a52
+Assembly: Lidgren.Network, Version=0.10.46.573, Culture=neutral, PublicKeyToken=null
+Assembly: LmpGlobal, Version=0.10.46.573, Culture=neutral, PublicKeyToken=null
+Assembly: LunaClient, Version=0.10.46.573, Culture=neutral, PublicKeyToken=null
+Assembly: LunaCommon, Version=0.10.46.573, Culture=neutral, PublicKeyToken=null
+Assembly: Mono.Data.Tds, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+Assembly: System.Data, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Assembly: System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Assembly: System.Threading, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: System.Transactions, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Assembly: Sigma88LoadingScreens, Version=0.4.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: SigmaDimensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPSteamCtrlr, Version=0.0.1.35, Culture=neutral, PublicKeyToken=null
+Assembly: Steamworks.NET, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TimeControl, Version=2.9.2.0, Culture=neutral, PublicKeyToken=null
+
+[Log 12:46:16.3048464]: FlightEngineerCore->Awake
+[Log 12:46:20.3398219]: FlightEngineerCore->Start
+[Log 12:46:27.8017440]: FlightEngineerCore->OnDestroy
+[Log 12:46:47.5344936]: DisplayStackTS->OnDestroy
+[Log 12:46:48.3478497]: ActionMenu->Awake
+[Log 12:46:48.3478497]: FlightEngineerCore->Awake
+[Log 12:46:48.8371349]: ActionMenu->Start
+[Log 12:46:48.8436215]: FlightEngineerCore->Start
+[Log 13:01:22.3721155]: FlightEngineerCore->OnDestroy
+[Log 13:01:22.4215050]: ActionMenu->OnDestroy
+[Log 13:01:22.6189754]: ActionMenu->Awake
+[Log 13:01:22.6189754]: FlightEngineerCore->Awake
+[Log 13:01:23.0942319]: ActionMenu->Start
+[Log 13:01:23.1022102]: FlightEngineerCore->Start
+[Log 13:05:53.2362422]: ActionMenu->OnDestroy
+[Log 13:05:53.2442568]: FlightEngineerCore->OnDestroy
+[Log 13:05:53.4247891]: ActionMenu->Awake
+[Log 13:05:53.4247891]: FlightEngineerCore->Awake
+[Log 13:05:53.9067571]: ActionMenu->Start
+[Log 13:05:53.9127128]: FlightEngineerCore->Start
+[Log 13:09:44.5307729]: FlightEngineerCore->OnDestroy
+[Log 13:09:44.7123828]: ActionMenu->OnDestroy
