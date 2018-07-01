@@ -23540,7 +23540,7 @@ UrlConfig
 				displayName = Hephaestus^N
 				radius = 62500
 				geeASL = 2.38
-				tidallyLocked = True
+				tidallyLocked = False
 				initialRotation = 0
 				albedo = 0.3
 				emissivity = 0.9

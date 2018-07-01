@@ -17,7 +17,7 @@
       <IsDeleted>false</IsDeleted>
       <IsHudBackground>false</IsHudBackground>
       <IsVisible>true</IsVisible>
-      <LineCount>0</LineCount>
+      <LineCount>14</LineCount>
       <Name>TRACKING (REF: Kerbin)</Name>
       <ReadoutModuleNames>
         <string>Rendezvous.TargetSelector</string>
