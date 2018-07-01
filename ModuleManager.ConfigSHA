@@ -1,4 +1,4 @@
-SHA = BF-CC-5A-35-57-A5-C1-49-11-3C-9B-DD-4D-92-11-D4-15-03-E9-C1-99-17-87-A3-63-41-41-D6-67-37-47-BA
+SHA = 50-9C-9B-D9-8E-E1-A6-C9-8C-73-9B-24-69-E5-DA-CD-EC-14-31-CB-81-18-ED-A2-16-34-75-74-C3-E2-95-95
 version = 3.0.7.0
 KSPVersion = 1.4.3.2152
 FilesSHA
@@ -7,6 +7,56 @@ FilesSHA
 	{
 		filename = /FixVAB
 		SHA = 59-B5-2F-6F-4A-BE-57-96-65-89-52-11-74-17-F9-6E-FA-75-BC-F2-5C-FF-56-F8-E6-FD-21-E6-52-E7-2F-1C
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/CommunityTechTree_patch
+		SHA = 90-C7-12-77-49-CE-90-01-DE-6F-25-FA-08-31-9E-AC-0F-38-E4-B1-98-EF-12-4B-EF-82-A2-DA-2D-C2-BC-C9
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/RSS_patch
+		SHA = 50-6B-7A-10-30-B8-87-B9-4E-6E-28-66-E2-3E-3D-30-36-5E-5C-39-23-F0-70-0F-14-B8-94-E1-86-B0-2A-C2
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/TweakScale_patch
+		SHA = FC-BE-46-58-03-09-FB-F2-AA-94-0C-20-FC-AB-26-D3-89-28-EF-DF-78-C8-55-0F-7B-B9-26-51-F9-EC-E1-88
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/Deprecated/FtlBeacon/FTLBeacon-depreciated
+		SHA = 62-33-07-75-62-B0-62-72-1F-2B-91-A2-F8-87-D6-B8-9B-57-25-EA-CF-C4-91-94-09-55-82-F4-64-D8-40-8D
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/Deprecated/LargeFtlDrive/FTLDriveLarge-depreciated
+		SHA = 18-A2-24-BA-FF-4E-08-10-8F-64-38-5D-43-15-CB-A1-C1-1F-B3-76-EE-82-69-D9-55-21-91-C5-AA-39-20-C4
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/Deprecated/SmallFtlDrive/FTLDriveSmall-depreciated
+		SHA = 4A-64-9D-E3-21-38-05-DE-5C-6B-B9-36-E0-F3-1D-3B-A9-5E-4F-76-98-BF-77-BC-A2-27-C1-38-14-73-89-84
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/FTLBeacon/FTLContBcnPlus
+		SHA = 39-9A-69-7E-4D-7A-86-E3-67-F5-07-19-64-93-BE-74-8C-3B-E0-08-02-42-23-44-2F-A1-2F-A7-68-FD-31-28
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/FTLDriveMk2/FTLDriveMk2
+		SHA = FB-43-62-3E-C3-CB-88-FD-A9-E3-99-19-21-5D-6F-CA-23-B8-A6-19-7B-02-BE-FE-CC-DF-2E-4F-B5-CF-FF-1F
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/FTLDriveS1/FTLDriveSmall
+		SHA = FA-CB-1B-E8-1D-A6-08-4B-E6-BC-E5-DB-5E-2C-BB-E5-FA-8C-E4-C6-07-CD-F5-67-68-26-E2-54-77-C9-70-4D
+	}
+	FILE
+	{
+		filename = FTLDriveContinued/Parts/FTLDriveS2/FTLDriveLarge
+		SHA = CF-A5-18-5F-AF-BE-84-2F-14-5E-38-79-CD-66-97-60-E0-30-29-09-FC-80-8D-C3-F9-97-07-74-7E-F2-AF-7F
 	}
 	FILE
 	{
@@ -1345,6 +1395,66 @@ FilesSHA
 	}
 	FILE
 	{
+		filename = KAS/settings
+		SHA = EE-66-6E-F5-CA-40-FE-92-A5-FD-CD-B0-90-6F-CA-F9-08-EA-DC-35-57-0B-52-09-86-B4-A4-CF-C7-82-96-84
+	}
+	FILE
+	{
+		filename = KAS/Parts/cPort1/part
+		SHA = 1C-D9-BE-C3-CA-02-B9-C4-8C-06-1C-EF-6C-5A-C6-78-9E-C7-95-3F-68-69-D1-CC-C5-37-B6-DD-38-37-D2-DF
+	}
+	FILE
+	{
+		filename = KAS/Parts/hook_anchor/part
+		SHA = 70-33-94-29-D1-8F-D3-3D-2A-37-3D-D4-A1-98-9C-3B-62-11-10-42-D5-AE-F6-D5-22-13-29-4D-E4-CD-64-28
+	}
+	FILE
+	{
+		filename = KAS/Parts/hook_grapplingHook/part
+		SHA = 87-52-AB-66-63-49-A2-55-9E-BF-6B-06-71-BF-CA-4B-7B-F4-9B-DD-C0-0E-5C-F2-1C-29-16-BC-D4-CA-86-9F
+	}
+	FILE
+	{
+		filename = KAS/Parts/hook_harpoon/part
+		SHA = DA-B9-15-E0-D3-5E-02-F4-7E-14-31-D9-3A-6A-13-A3-58-2D-73-13-69-25-95-F4-3E-41-8F-6E-58-8F-8D-A9
+	}
+	FILE
+	{
+		filename = KAS/Parts/hook_magnet/part
+		SHA = BF-09-64-82-9C-2F-E9-D3-50-C7-E4-CE-B9-95-9C-79-5E-7F-F3-83-7F-CE-A6-50-D0-05-03-EB-7E-6E-9D-F7
+	}
+	FILE
+	{
+		filename = KAS/Parts/pylon1/part
+		SHA = ED-EE-0D-94-76-05-8C-A6-15-39-00-C9-DC-63-2E-EA-E6-B6-3A-72-81-26-B1-51-EC-A5-0D-07-1D-E4-39-B8
+	}
+	FILE
+	{
+		filename = KAS/Parts/strut1/part
+		SHA = A6-4D-D1-12-25-14-5A-E1-C0-C5-25-17-20-67-8E-1F-29-AC-35-B8-13-48-14-23-34-2E-EF-42-8F-A9-F7-3D
+	}
+	FILE
+	{
+		filename = KAS/Parts/winch1/part
+		SHA = 2D-45-C8-C6-EE-97-A6-E1-41-56-64-61-1F-4B-B4-03-61-5A-D0-CD-09-73-D0-E2-5E-9F-53-06-C9-21-23-6B
+	}
+	FILE
+	{
+		filename = KAS/Parts/winch2/part
+		SHA = 66-D7-A1-B1-42-2B-2C-9B-34-65-CE-68-76-30-50-D4-1F-70-EE-7B-56-0C-ED-B3-84-64-8F-73-02-82-82-F5
+	}
+	FILE
+	{
+		filename = KerbalEngineer/Parts/Engineer7500/part
+		SHA = 06-E4-A4-F5-49-95-A5-F5-7D-45-77-FF-94-FC-CC-56-14-54-B4-A8-4F-ED-18-B5-10-E3-CA-6F-28-1A-05-AC
+	}
+	FILE
+	{
+		filename = KerbalEngineer/Parts/EngineerChip/EngineerChip
+		SHA = C2-0B-7E-29-D3-6B-A4-7B-C7-55-54-AA-1A-9B-21-F4-23-FA-67-4F-6A-7E-A5-12-9D-AE-F7-CB-CC-19-4C-4B
+	}
+	FILE
+	{
 		filename = KerbalKonstructs/FreeStatics/KKflagDemo/AutoGrasDemo 
 		SHA = 3E-BA-C0-1E-44-33-1E-33-38-E4-11-60-A5-F1-49-3A-D9-C5-FC-67-11-48-DF-4B-E4-E1-FD-10-07-05-C7-47
 	}
@@ -1440,6 +1550,96 @@ FilesSHA
 	}
 	FILE
 	{
+		filename = KIS/settings
+		SHA = 53-93-34-7D-17-7C-D4-53-9E-C0-A8-89-45-E1-A6-34-4B-61-9C-C5-30-18-30-A4-92-F5-ED-28-25-1C-72-5E
+	}
+	FILE
+	{
+		filename = KIS/Lang/en-us
+		SHA = 2D-62-A7-3E-78-B8-2E-95-E6-A5-F6-12-9A-81-EC-AB-EA-43-53-74-BC-8D-0A-BB-93-6E-86-6A-3F-28-C3-0B
+	}
+	FILE
+	{
+		filename = KIS/Lang/es-es
+		SHA = 59-9F-1F-0D-B8-51-60-43-69-74-52-27-55-C2-5F-D0-70-A8-DD-05-B5-83-C9-50-9B-D7-26-DA-A2-F3-1E-A8
+	}
+	FILE
+	{
+		filename = KIS/Lang/ru
+		SHA = D8-7E-69-75-DB-94-31-66-70-14-BC-05-22-16-EA-D5-F8-F6-97-BB-C0-B5-4F-7B-6A-75-21-F5-23-24-F4-6A
+	}
+	FILE
+	{
+		filename = KIS/Lang/zh-cn
+		SHA = D6-75-12-52-0B-D5-AC-B8-C3-4A-D9-24-3F-86-67-1E-29-37-A1-7B-BA-D1-6F-FE-17-A1-23-D1-19-C8-A4-01
+	}
+	FILE
+	{
+		filename = KIS/Parts/bomb1/part
+		SHA = A5-77-2E-B6-C6-27-45-9C-98-86-66-36-D7-EA-33-A2-DC-20-81-44-35-E3-D9-75-CD-58-36-9C-37-7A-D4-35
+	}
+	FILE
+	{
+		filename = KIS/Parts/concreteBase1/part
+		SHA = 11-12-1D-41-06-02-87-94-9A-28-81-ED-0B-5B-00-DE-3B-8D-26-45-4B-44-1D-09-50-66-F4-34-8F-4C-EC-4E
+	}
+	FILE
+	{
+		filename = KIS/Parts/container1/part
+		SHA = 8C-87-61-66-F6-8B-2C-57-0E-6B-DE-70-FB-C5-5F-0C-72-9D-AE-CC-22-8C-6C-7A-D3-55-96-2B-4B-D5-F4-76
+	}
+	FILE
+	{
+		filename = KIS/Parts/container2/part
+		SHA = 0A-47-07-10-61-EE-AB-50-1E-CD-B6-F8-0D-1B-53-A2-11-27-BA-60-39-CA-5A-18-F2-9E-93-3B-90-46-01-A0
+	}
+	FILE
+	{
+		filename = KIS/Parts/container3/part
+		SHA = 53-2E-36-34-FA-E0-B8-F8-E7-25-D5-C2-47-8E-72-70-CB-31-D0-CB-05-88-D0-1C-9C-0E-62-37-5F-B1-AC-D7
+	}
+	FILE
+	{
+		filename = KIS/Parts/containerMount1/containerMount1
+		SHA = E8-08-CC-47-29-DF-D5-96-27-AD-C3-C2-7E-9C-0E-06-A5-C3-53-1D-49-25-4C-6E-F2-FF-08-0E-FC-56-DE-57
+	}
+	FILE
+	{
+		filename = KIS/Parts/electricScrewdriver/part
+		SHA = 35-D3-25-13-E4-CE-61-F2-28-60-0A-2D-D1-E3-74-FD-6B-07-88-C3-BF-90-AB-72-54-57-A3-DA-2D-FF-40-E0
+	}
+	FILE
+	{
+		filename = KIS/Parts/evapropellant1/part
+		SHA = D4-BD-BD-8A-86-52-78-08-9C-04-0B-73-6D-FB-CE-B7-53-38-1F-0F-D3-13-07-BB-7D-32-45-C3-E2-1D-8F-26
+	}
+	FILE
+	{
+		filename = KIS/Parts/guide/part
+		SHA = 36-C9-D8-0A-EC-CB-88-5D-E1-43-CF-DA-66-84-71-EE-7C-19-92-BE-64-C4-C0-D8-5B-43-56-14-A7-61-49-7D
+	}
+	FILE
+	{
+		filename = KIS/Parts/wrench/part
+		SHA = 48-A7-3B-9C-F7-AA-C2-17-63-2E-1F-1E-BB-46-9C-FE-08-55-26-AF-65-71-A1-88-8F-16-70-5A-97-D0-1E-4E
+	}
+	FILE
+	{
+		filename = KIS/Patches/MM-CommunityCategoryKit
+		SHA = AB-9E-CA-CE-9E-11-EA-05-CF-62-D2-86-BE-5A-1B-7B-B5-60-A8-9E-E6-2D-78-61-01-ED-E8-4A-E1-0F-D8-E8
+	}
+	FILE
+	{
+		filename = KIS/Patches/MM-Kerbals
+		SHA = 31-A4-EB-94-64-AB-0E-C1-BA-CC-41-7B-F0-5D-AD-1E-A6-C3-25-9D-0A-47-08-4A-6F-2B-A2-48-42-D1-C3-13
+	}
+	FILE
+	{
+		filename = KIS/Patches/MM-StockParts
+		SHA = C1-1F-FB-7B-06-0D-1D-BD-63-D8-12-1F-5E-82-4C-29-DA-8F-F2-DD-D6-1E-22-16-1B-DB-5D-E3-8F-43-06-1E
+	}
+	FILE
+	{
 		filename = Kopernicus/Config/SolarPanels
 		SHA = 5C-25-4A-3C-B8-EA-8E-94-65-02-C9-5D-F0-06-5B-D8-A1-30-BF-E2-1E-48-42-86-D4-89-85-74-83-84-FD-E7
 	}
@@ -1461,7 +1661,7 @@ FilesSHA
 	FILE
 	{
 		filename = Sigma/Dimensions/Settings
-		SHA = E2-73-C6-5D-66-41-10-83-D1-C8-DD-82-39-3E-DB-FF-8E-D2-3E-99-BD-DC-6E-C6-50-09-8F-35-93-53-AA-33
+		SHA = 37-EB-BF-E2-64-FC-F2-DD-CE-E7-66-BA-AA-82-98-D7-80-15-D3-2B-45-36-12-B1-CF-24-9D-71-0F-0F-0D-61
 	}
 	FILE
 	{
