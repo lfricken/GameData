@@ -1,0 +1,63 @@
+[KS3P]: Alright, I'm up! Anyone made bacon yet?
+[KS3P]: Beginning parsing operation for a total of [1] found files.
+[KS3P]: Parsing config file [0/1]. [Completion 0%]
+[KS3P]: [KS3P]: Parsing post-processing bundle named [Default], bundle loadID [0].
+[KS3P]: Processing data for scene [VAB].
+[KS3P]: Parsing Anti-Aliasing node for bundle named [Default], for scene [VAB].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [VAB].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt02].
+[KS3P]: Parsing Color Grading node for bundle named [Default], for scene [VAB].
+[KS3P]: [ColorGrading]: Setting CG to ACES preset.
+[KS3P]: Parsing Vignette node for bundle named [Default], for scene [VAB].
+[KS3P]: Processing data for scene [SPH].
+[KS3P]: Parsing Anti-Aliasing node for bundle named [Default], for scene [SPH].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [SPH].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt02].
+[KS3P]: Parsing Color Grading node for bundle named [Default], for scene [SPH].
+[KS3P]: [ColorGrading]: Setting CG to ACES preset.
+[KS3P]: Parsing Vignette node for bundle named [Default], for scene [SPH].
+[KS3P]: Processing data for scene [Flight].
+[KS3P]: Parsing Anti-Aliasing node for bundle named [Default], for scene [Flight].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [Flight].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt01].
+[KS3P]: Parsing Color Grading node for bundle named [Default], for scene [Flight].
+[KS3P]: [ColorGrading]: Setting CG to ACES preset.
+[KS3P]: Parsing Depth Of Field node for bundle named [Default], for scene [Flight].
+[KS3P]: Parsing Eye Adaptation node for bundle named [Default], for scene [Flight].
+[KS3P]: Parsing Vignette node for bundle named [Default], for scene [Flight].
+[KS3P]: Processing data for scene [EVA].
+[KS3P]: Parsing Anti-Aliasing node for bundle named [Default], for scene [EVA].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [EVA].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt01].
+[KS3P]: Parsing Color Grading node for bundle named [Default], for scene [EVA].
+[KS3P]: [ColorGrading]: Setting CG to ACES preset.
+[KS3P]: Parsing Eye Adaptation node for bundle named [Default], for scene [EVA].
+[KS3P]: Parsing Vignette node for bundle named [Default], for scene [EVA].
+[KS3P]: Processing data for scene [IVA].
+[KS3P]: Parsing Anti-Aliasing node for bundle named [Default], for scene [IVA].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [IVA].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt01].
+[KS3P]: Parsing Eye Adaptation node for bundle named [Default], for scene [IVA].
+[KS3P]: Parsing Vignette node for bundle named [Default], for scene [IVA].
+[KS3P]: Processing data for scene [MainMenu].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [MainMenu].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt02].
+[KS3P]: Parsing Color Grading node for bundle named [Default], for scene [MainMenu].
+[KS3P]: [ColorGrading]: Setting CG to ACES preset.
+[KS3P]: Processing data for scene [KSC].
+[KS3P]: Parsing Anti-Aliasing node for bundle named [Default], for scene [KSC].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [KSC].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt01].
+[KS3P]: Parsing Depth Of Field node for bundle named [Default], for scene [KSC].
+[KS3P]: Parsing Eye Adaptation node for bundle named [Default], for scene [KSC].
+[KS3P]: Parsing Vignette node for bundle named [Default], for scene [KSC].
+[KS3P]: Processing data for scene [4].
+[KS3P]: Parsing Anti-Aliasing node for bundle named [Default], for scene [4].
+[KS3P]: Parsing Bloom node for bundle named [Default], for scene [4].
+[KS3P]: Dirt texture set to [KS3P/Textures/LensDirt01].
+[KS3P]: Parsing Color Grading node for bundle named [Default], for scene [4].
+[KS3P]: Parsing Eye Adaptation node for bundle named [Default], for scene [4].
+[KS3P]: Parsing Vignette node for bundle named [Default], for scene [4].
+[KS3P]: Loading operation complete.
+[KS3P]: Finishing up! Generating logfile...
+[KS3P]: Logfile created at location [C:/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/KSP_x64_Data/..//GameData/KS3P/Log.txt].
